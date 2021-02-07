@@ -1,5 +1,4 @@
-# python-api-challenge
-# What's the Weather Like?
+# Python API- What's the Weather Like?
 
 ## Background
 
@@ -13,7 +12,7 @@ But, if pressed, how would you **prove** it?
 
 ### Before You Begin
 
-1. Create a new repository for this project called `python-api-challenge`.
+1. Create a new repository for this project called `python-api-challenge`. 
 
 2. Clone the new repository to your computer.
 
@@ -118,4 +117,5 @@ As final considerations:
 * Ensure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file.
 
 * Lastly, remember -- this is a challenging activity. Push yourself! If you complete this task, then you can safely say that you've gained a strong mastery of the core foundations of data analytics and it will only go better from here. Good luck!
+
 
