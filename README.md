@@ -116,6 +116,6 @@ As final considerations:
 
 * Ensure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file.
 
-* Lastly, remember -- this is a challenging activity. Push yourself! If you complete this task, then you can safely say that you've gained a strong mastery of the core foundations of data analytics and it will only go better from here. Good luck!
+* Lastly, remember -- this is a challenging activity. Push yourself! If you complete this task, then you can safely say that you've gained a strong mastery of the core foundations of data analytics and it will only go better from here. 
 
 
